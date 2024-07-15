@@ -1,4 +1,4 @@
-<img src="https://widgetbite.com/banner?title=Hi%2C%20I'm%20Kavan&subtitle=Welcome%20to%20my%20Github&backgroundpalette=water&fontpalette=none&titletransform=none&subtitletransform=none" width=100% height=100%/>
+<img src="https://widgetbite.com/banner?title=Hi%2C%20I'm%20Kavan&subtitle=Welcome%20to%20my%20Github&backgroundpalette=twilight&fontpalette=none&titletransform=none&subtitletransform=none" width=100% height=100%/>
 
 
 ## About Me
